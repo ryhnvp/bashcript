@@ -1,0 +1,2 @@
+# bashcript
+Bash Basic
